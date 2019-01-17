@@ -1,6 +1,6 @@
 # Piscine reloaded [![42](https://i.imgur.com/9NXfcit.jpg)](i.imgur.com/9NXfcit.jpg)
 
-Piscine reloaded is a refresher of all the basics learned during the 42 <a href="https://www.42.fr/la-piscine/" target="_blank">piscine</a>. It was the first project at 42.
+Piscine reloaded is a refresher of all the basics learned during the <a href="https://www.42.fr/la-piscine/" target="_blank">42's piscine</a>. It was the first project at 42.
 
 
 ---
