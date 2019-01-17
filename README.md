@@ -22,5 +22,6 @@ The allow students to get a good drasp on the following topics:
 
 ## Cluster View
 
-[![42cluster](https://www.42.fr/images/cluster01.jpg)](www.42.fr/images/cluster01.jpg)
-*(42's cluster, where the journey began)*
+<div style="text-align:center"><img src ="https://www.42.fr/images/cluster01.jpg" /></div>
+
+<div style="text-align:center">*(42's cluster, where the journey began)*</div>
